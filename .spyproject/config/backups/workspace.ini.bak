@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['src\\indexer.py', 'src\\search_engine.py', 'src\\evaluator.py', 'src\\main.py', 'ARCHITECTURE.md', 'requirements.txt', 'data\\downloadTxtFiles.py', 'src\\data_collector.py', 'data\\metadata.json', 'src\\fix_titles.py', 'index\\inverted_index.json', 'tests\\test_queries.txt', 'ground_truth.csv', 'src\\generate_ground_truth.py', 'README.md', 'data\\documents\\Doc_1.txt']
+
+[main]
+version = 0.2.0
+recent_files = []
+
