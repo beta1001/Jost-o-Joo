@@ -1,0 +1,212 @@
+query,doc_id,relevance
+love and romance,Doc_38,1
+love and romance,Doc_49,0
+love and romance,Doc_13,1
+love and romance,Doc_2,1
+love and romance,Doc_45,0
+love and romance,Doc_22,1
+love and romance,Doc_23,0
+love and romance,Doc_34,1
+love and romance,Doc_32,1
+love and romance,Doc_31,1
+love and romance,Doc_20,1
+love and romance,Doc_5,0
+love and romance,Doc_43,0
+love and romance,Doc_33,0
+love and romance,Doc_1,1
+love and romance,Doc_40,0
+love and romance,Doc_17,0
+love and romance,Doc_14,0
+love and romance,Doc_46,0
+love and romance,Doc_8,0
+adventure journey,Doc_49,1
+adventure journey,Doc_14,0
+adventure journey,Doc_4,1
+adventure journey,Doc_38,1
+adventure journey,Doc_9,0
+adventure journey,Doc_45,0
+adventure journey,Doc_2,0
+adventure journey,Doc_22,1
+adventure journey,Doc_36,0
+adventure journey,Doc_5,0
+adventure journey,Doc_41,0
+adventure journey,Doc_20,0
+adventure journey,Doc_6,1
+adventure journey,Doc_37,0
+adventure journey,Doc_40,0
+adventure journey,Doc_31,0
+adventure journey,Doc_34,0
+adventure journey,Doc_17,0
+adventure journey,Doc_19,0
+adventure journey,Doc_44,0
+adventure journey,Doc_33,0
+science discovery,Doc_2,1
+science discovery,Doc_37,1
+science discovery,Doc_26,1
+science discovery,Doc_36,1
+science discovery,Doc_39,1
+science discovery,Doc_49,0
+science discovery,Doc_28,0
+science discovery,Doc_15,0
+science discovery,Doc_41,0
+science discovery,Doc_43,0
+science discovery,Doc_20,0
+science discovery,Doc_6,0
+science discovery,Doc_33,0
+science discovery,Doc_18,0
+science discovery,Doc_44,0
+science discovery,Doc_32,0
+science discovery,Doc_47,0
+science discovery,Doc_30,0
+science discovery,Doc_5,0
+science discovery,Doc_29,0
+science discovery,Doc_17,0
+science discovery,Doc_14,0
+science discovery,Doc_16,0
+war peace conflict,Doc_21,1
+war peace conflict,Doc_39,0
+war peace conflict,Doc_49,0
+war peace conflict,Doc_40,0
+war peace conflict,Doc_6,1
+war peace conflict,Doc_20,0
+war peace conflict,Doc_17,0
+war peace conflict,Doc_45,0
+war peace conflict,Doc_38,0
+war peace conflict,Doc_28,0
+war peace conflict,Doc_26,0
+war peace conflict,Doc_46,0
+war peace conflict,Doc_35,1
+war peace conflict,Doc_29,0
+war peace conflict,Doc_2,0
+war peace conflict,Doc_14,0
+war peace conflict,Doc_25,0
+war peace conflict,Doc_15,0
+war peace conflict,Doc_11,0
+war peace conflict,Doc_7,0
+war peace conflict,Doc_19,0
+philosophy life meaning,Doc_39,1
+philosophy life meaning,Doc_36,1
+philosophy life meaning,Doc_37,1
+philosophy life meaning,Doc_15,0
+philosophy life meaning,Doc_2,0
+philosophy life meaning,Doc_43,0
+philosophy life meaning,Doc_47,0
+philosophy life meaning,Doc_42,1
+philosophy life meaning,Doc_33,1
+philosophy life meaning,Doc_5,0
+philosophy life meaning,Doc_26,0
+philosophy life meaning,Doc_21,1
+philosophy life meaning,Doc_31,0
+philosophy life meaning,Doc_20,0
+philosophy life meaning,Doc_32,0
+philosophy life meaning,Doc_48,0
+philosophy life meaning,Doc_38,0
+philosophy life meaning,Doc_24,0
+philosophy life meaning,Doc_9,0
+philosophy life meaning,Doc_10,0
+philosophy life meaning,Doc_18,0
+philosophy life meaning,Doc_6,0
+detective mystery,Doc_37,1
+detective mystery,Doc_26,1
+detective mystery,Doc_40,1
+detective mystery,Doc_45,0
+detective mystery,Doc_17,1
+detective mystery,Doc_6,0
+detective mystery,Doc_28,0
+detective mystery,Doc_34,0
+detective mystery,Doc_20,0
+detective mystery,Doc_2,0
+detective mystery,Doc_41,0
+detective mystery,Doc_16,0
+detective mystery,Doc_10,0
+detective mystery,Doc_4,1
+detective mystery,Doc_5,0
+detective mystery,Doc_9,0
+detective mystery,Doc_7,0
+detective mystery,Doc_13,0
+detective mystery,Doc_11,0
+detective mystery,Doc_49,0
+detective mystery,Doc_12,0
+detective mystery,Doc_27,0
+ghost horror,Doc_30,1
+ghost horror,Doc_15,1
+ghost horror,Doc_40,0
+ghost horror,Doc_22,0
+ghost horror,Doc_26,1
+ghost horror,Doc_19,0
+ghost horror,Doc_6,0
+ghost horror,Doc_5,0
+ghost horror,Doc_14,1
+ghost horror,Doc_20,0
+ghost horror,Doc_37,0
+ghost horror,Doc_8,0
+ghost horror,Doc_28,0
+ghost horror,Doc_35,0
+ghost horror,Doc_42,0
+ghost horror,Doc_44,0
+ghost horror,Doc_27,0
+ghost horror,Doc_41,0
+ghost horror,Doc_39,0
+ghost horror,Doc_47,0
+fairy tales children,Doc_9,1
+fairy tales children,Doc_20,1
+fairy tales children,Doc_2,1
+fairy tales children,Doc_21,1
+fairy tales children,Doc_40,0
+fairy tales children,Doc_49,0
+fairy tales children,Doc_43,0
+fairy tales children,Doc_11,1
+fairy tales children,Doc_26,0
+fairy tales children,Doc_3,1
+fairy tales children,Doc_7,0
+fairy tales children,Doc_42,0
+fairy tales children,Doc_28,0
+fairy tales children,Doc_35,0
+fairy tales children,Doc_5,1
+fairy tales children,Doc_22,0
+fairy tales children,Doc_29,0
+fairy tales children,Doc_24,0
+fairy tales children,Doc_47,0
+fairy tales children,Doc_32,0
+fairy tales children,Doc_8,0
+sea ocean voyage,Doc_2,1
+sea ocean voyage,Doc_7,1
+sea ocean voyage,Doc_41,1
+sea ocean voyage,Doc_26,1
+sea ocean voyage,Doc_22,1
+sea ocean voyage,Doc_43,0
+sea ocean voyage,Doc_49,0
+sea ocean voyage,Doc_28,0
+sea ocean voyage,Doc_23,0
+sea ocean voyage,Doc_24,0
+sea ocean voyage,Doc_38,0
+sea ocean voyage,Doc_47,0
+sea ocean voyage,Doc_21,0
+sea ocean voyage,Doc_20,0
+sea ocean voyage,Doc_5,0
+sea ocean voyage,Doc_39,0
+sea ocean voyage,Doc_10,0
+sea ocean voyage,Doc_30,0
+sea ocean voyage,Doc_8,0
+sea ocean voyage,Doc_32,0
+sea ocean voyage,Doc_1,0
+revolution society,Doc_35,1
+revolution society,Doc_21,0
+revolution society,Doc_27,1
+revolution society,Doc_5,1
+revolution society,Doc_33,0
+revolution society,Doc_42,0
+revolution society,Doc_31,0
+revolution society,Doc_43,0
+revolution society,Doc_20,0
+revolution society,Doc_12,0
+revolution society,Doc_15,0
+revolution society,Doc_10,0
+revolution society,Doc_23,0
+revolution society,Doc_36,0
+revolution society,Doc_26,0
+revolution society,Doc_38,0
+revolution society,Doc_34,0
+revolution society,Doc_46,0
+revolution society,Doc_3,0
+revolution society,Doc_7,0
